@@ -1,7 +1,5 @@
-# Assignment 3 base random forest and variations implementation from scratch
+# MATH 533 Assignment 3 
 
-randomforest.py contains relevant code
+Notebook contains simulation study conducted for MATH 533 assignment 3
 
-rf_implementation.py just implements models and compares cusotm to off the shelf sklearn and parallel version
-
-see mda_simulation.py for most recent attempt 
+randomforest.py implementatoin of RF and variations from scratch. Incomplete.
