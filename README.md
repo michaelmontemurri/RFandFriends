@@ -1,5 +1,3 @@
-# MATH 533 Assignment 3 
+# Random Forest and Variations
 
-Notebook contains simulation study conducted for MATH 533 assignment 3
-
-randomforest.py implementatoin of RF and variations from scratch. Incomplete.
+Implementation of Brieman's RF and several simplified variants that are prominent in the literature such as purely random forests and totally random forests. The notebook does a quick demo and comparison to SKLearn implementation and between variants. 
